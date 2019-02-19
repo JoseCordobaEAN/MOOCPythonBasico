@@ -1,8 +1,9 @@
+![Logo ean](imagenes/Logo-negro.jpg)
 # MOOC Python Básico Universidad EAN
 
 En este repositorio encontrarás el código fuente de los ejercicios trabajados durante el curso de programación básica
 
-![Logo ean](imagenes/Logo-negro.jpg)
+
 ___
 Los contenidos del MOOC son:
 
