@@ -1,0 +1,1 @@
+Puedes contribuir en este curso agregando ejercicios a cada uno de los módulos de tal forma que hagamos una gran base de conocimineto, para esto, crea una rama, agrega los ejercicios en la carpeta del módulo correspondiente y utiliza un Pull Request para que agreguemos tu contribución al repositorio
