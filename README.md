@@ -12,5 +12,5 @@ Introducción
 1. Modulo 2 Tipos de datos simples
 1. Modulo 3 Funciones
 1. Modulo 4 Estructuras de decisión
-1. Modulo 5 Estructuras de repetición
-1. Modulo 6 Listas
+1. Modulo 5 Listas
+1. Modulo 6 Estructuras de repetición
